@@ -1,0 +1,5 @@
+{
+  "name": "Fully Automated Perpetual Calendar",
+  "description": "A comprehensive web version of the automated Excel perpetual calendar, featuring Dashboard, Database, and Settings modules with two-way sync capability.",
+  "requestFramePermissions": []
+}
